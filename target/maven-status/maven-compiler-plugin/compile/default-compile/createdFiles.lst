@@ -1,4 +1,11 @@
+com\letscode\sweater\controller\RegistrationController.class
+com\letscode\sweater\domain\User.class
 com\letscode\sweater\Application.class
+com\letscode\sweater\repos\UserRepo.class
+com\letscode\sweater\config\WebSecurityConfig.class
+com\letscode\sweater\config\MvcConfig.class
+com\letscode\sweater\service\UserService.class
 com\letscode\sweater\domain\Message.class
 com\letscode\sweater\repos\MessageRepo.class
-com\letscode\sweater\GreetingController.class
+com\letscode\sweater\domain\Role.class
+com\letscode\sweater\controller\MainController.class

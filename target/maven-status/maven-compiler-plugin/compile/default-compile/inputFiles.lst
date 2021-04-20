@@ -1,4 +1,11 @@
-C:\Users\stalien\Documents\VSCODE\REPO\sweater\src\main\java\com\letscode\sweater\GreetingController.java
+C:\Users\stalien\Documents\VSCODE\REPO\sweater\src\main\java\com\letscode\sweater\config\MvcConfig.java
+C:\Users\stalien\Documents\VSCODE\REPO\sweater\src\main\java\com\letscode\sweater\domain\Role.java
+C:\Users\stalien\Documents\VSCODE\REPO\sweater\src\main\java\com\letscode\sweater\domain\User.java
 C:\Users\stalien\Documents\VSCODE\REPO\sweater\src\main\java\com\letscode\sweater\repos\MessageRepo.java
 C:\Users\stalien\Documents\VSCODE\REPO\sweater\src\main\java\com\letscode\sweater\domain\Message.java
+C:\Users\stalien\Documents\VSCODE\REPO\sweater\src\main\java\com\letscode\sweater\controller\MainController.java
+C:\Users\stalien\Documents\VSCODE\REPO\sweater\src\main\java\com\letscode\sweater\controller\RegistrationController.java
+C:\Users\stalien\Documents\VSCODE\REPO\sweater\src\main\java\com\letscode\sweater\config\WebSecurityConfig.java
+C:\Users\stalien\Documents\VSCODE\REPO\sweater\src\main\java\com\letscode\sweater\service\UserService.java
 C:\Users\stalien\Documents\VSCODE\REPO\sweater\src\main\java\com\letscode\sweater\Application.java
+C:\Users\stalien\Documents\VSCODE\REPO\sweater\src\main\java\com\letscode\sweater\repos\UserRepo.java
